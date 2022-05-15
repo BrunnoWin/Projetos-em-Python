@@ -1,2 +1,0 @@
--o main e o principal
--Calculadora criada usando Python e Tkinter
