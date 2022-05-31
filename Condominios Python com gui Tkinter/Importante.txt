@@ -1,0 +1,1 @@
+devera ser executado o application.py
